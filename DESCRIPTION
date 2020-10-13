@@ -1,13 +1,11 @@
 Package: map.maker
-Title: What the Package Does (One Line, Title Case)
+Title: Simple and lightweight R package for generating maps.
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Authors@R: c(
+    person("Erick", "Oduniyi",  role = c("aut", "cre"), email = "eeoduniyi@gmail.com"),
+    person("Sneha", "Verma", role = c("aut", "cre"), email = "snehaverma@ku.edu"),
+    )
+Description: Map maker
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
