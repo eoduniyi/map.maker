@@ -3,7 +3,7 @@ Title: Simple and lightweight R package for generating maps.
 Version: 0.0.0.9000
 Authors@R: c(
     person("Erick", "Oduniyi",  role = c("aut", "cre"), email = "eeoduniyi@gmail.com"),
-    person("Sneha", "Verma", role = c("aut", "cre"), email = "snehaverma@ku.edu"),
+    person("Sneha", "Verma", role = c("aut"), email = "snehaverma@ku.edu")
     )
 Description: Map maker
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
