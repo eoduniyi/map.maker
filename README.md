@@ -1,2 +1,3 @@
-# map_maker
-Simple and lightweight R package for generating maps
+# `map.maker()`
+Simple and lightweight R package for generating maps.
+---
