@@ -1,14 +1,18 @@
 Package: map.maker
-Title: Simple and lightweight R package for generating maps.
+Title: Simple and lightweight R package for generating maps
 Version: 0.0.0.9000
 Authors@R: c(
     person("Erick", "Oduniyi",  role = c("aut", "cre"), email = "eeoduniyi@gmail.com"),
     person("Sneha", "Verma", role = c("aut"), email = "snehaverma@ku.edu")
     )
-Description: Map maker
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Description: Map maker for R.
+License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
-Roxygen: list(markdown = TRUE)
+LazyLoad: yes
+LazyData: yes
 RoxygenNote: 7.1.1
+Roxygen: list(markdown = TRUE)
+Collate: 
+  'add_maps.R'
+  'map_gen.R'
+  'map_gen_time.R'
